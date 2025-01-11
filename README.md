@@ -2,7 +2,7 @@
 
 PDFree is a powerful, browser-based PDF editor that allows you to view, edit, and manipulate PDF documents directly in your web browser. With its modern interface and comprehensive toolset, PDFree makes PDF editing accessible and efficient.
 
-![PDFree Interface](screenshot.png)
+![PDFree Interface]((https://github.com/amarruegg/PDFree/blob/main/PDFree_Screenshot.png)
 
 ## Features
 
